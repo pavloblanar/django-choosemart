@@ -18,7 +18,3 @@ A High Functionality backend based project using Django, AWS and more.. 🛒
 - Payment Gateway Integration & Place Order <br>
 - Review and Rating System <br>
 - Two Factor Checks for Submitting Reviews (Login check & Product purchase check) <br>
-- Rating Average & Review Count Calculation <br>
-- Product Gallery with Unlimited Images <br>
-- Django Security Measures <br>
-- Deploying Application on AWS Elastic Beanstalk (EB) <br>
